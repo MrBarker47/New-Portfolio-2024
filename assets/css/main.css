@@ -1900,10 +1900,10 @@ input, select, textarea {
 				line-height: 2.5em;
 			}
 
-				#header h1 {
-					text-align: center;
+				#header img {
+					/* text-align: center; */
 					position: relative;
-					left: 0;
+					left: 92px;
 					top: 0;
 					height: 2.5em;
 					line-height: 2.5em;
